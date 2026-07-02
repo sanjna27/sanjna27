@@ -11,10 +11,9 @@
 ## About Me
 
 - 🎓 Second-year **Computer Science student** at FAST National University, Pakistan
-- 💻 Passionate about **low-level programming**, systems design, and building things from scratch
-- 🎮 Built a terminal PAC-MAN game in **C** with ghost AI, power coins & cross-platform builds
+- 💻 Passionate about **programming**, systems design, and building things from scratch
 - 🌱 Currently exploring **Data Structures, OS concepts**, and web dev with C++ backends
-- 📬 Looking for **internship opportunities** in software development — feel free to reach out!
+- 📬 Looking for **internship opportunities** — feel free to reach out!
 
 ---
 
